@@ -6,3 +6,4 @@ Project should not be forked without my permission
 ## Additional Information
 
 - [03/06/19] Have added Utility helpers to assist in having a portable .NET library package
+- [04/06/19] Have used names that describe relational properties that display an inner join to other table sets
