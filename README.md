@@ -1,6 +1,8 @@
 # Clam
 A .NET Standard Library implementation using ASP Core identity and custom properties merged together to form a code-first approach/migration into an application.
 
+- Each table-set is correlated with a seperate project that is directly linked with Clam-Host repository being the container of hosting other projects.
+
 Project should not be forked without my permission
 
 ## Additional Information
