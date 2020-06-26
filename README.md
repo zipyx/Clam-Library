@@ -3,7 +3,6 @@ A .NET Standard Library implementation using ASP Core identity and custom proper
 
 - Each table-set is correlated with a seperate project that is directly linked with Clam-Host repository being the container of hosting other projects.
 
-Project should not be forked without my permission
 
 ## Additional Information
 
